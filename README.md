@@ -4,8 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-<!-- * [Screenshots](#screenshots) -->
+* [Technologies Used](#technologies-used) <!-- * [Screenshots](#screenshots) -->
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
